@@ -6,6 +6,6 @@ package com.example.helloworld;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Did This Work?");
+        System.out.println("How many times do I have to do this to get it right?");
     }
 }
